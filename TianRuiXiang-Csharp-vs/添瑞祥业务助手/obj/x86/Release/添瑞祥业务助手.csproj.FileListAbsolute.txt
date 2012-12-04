@@ -1,0 +1,13 @@
+D:\Polytech\VSSpace\添瑞祥业务助手\添瑞祥业务助手\bin\Release\添瑞祥业务助手.exe.manifest
+D:\Polytech\VSSpace\添瑞祥业务助手\添瑞祥业务助手\bin\Release\添瑞祥业务助手.application
+D:\Polytech\VSSpace\添瑞祥业务助手\添瑞祥业务助手\bin\Release\添瑞祥业务助手.exe
+D:\Polytech\VSSpace\添瑞祥业务助手\添瑞祥业务助手\bin\Release\添瑞祥业务助手.pdb
+D:\Polytech\VSSpace\添瑞祥业务助手\添瑞祥业务助手\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Polytech\VSSpace\添瑞祥业务助手\添瑞祥业务助手\obj\x86\Release\添瑞祥业务助手.Form1.resources
+D:\Polytech\VSSpace\添瑞祥业务助手\添瑞祥业务助手\obj\x86\Release\添瑞祥业务助手.Properties.Resources.resources
+D:\Polytech\VSSpace\添瑞祥业务助手\添瑞祥业务助手\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Polytech\VSSpace\添瑞祥业务助手\添瑞祥业务助手\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Polytech\VSSpace\添瑞祥业务助手\添瑞祥业务助手\obj\x86\Release\添瑞祥业务助手.exe.manifest
+D:\Polytech\VSSpace\添瑞祥业务助手\添瑞祥业务助手\obj\x86\Release\添瑞祥业务助手.application
+D:\Polytech\VSSpace\添瑞祥业务助手\添瑞祥业务助手\obj\x86\Release\添瑞祥业务助手.exe
+D:\Polytech\VSSpace\添瑞祥业务助手\添瑞祥业务助手\obj\x86\Release\添瑞祥业务助手.pdb
